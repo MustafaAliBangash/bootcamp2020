@@ -4,8 +4,8 @@ name: bootcamp2020 urdu
 
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
-on:
-  push: C:\Users\musta\OneDrive\Documents\GitHub\bootcamp2020
+on: 
+  push: 
     branches: [ master ]
 
 
